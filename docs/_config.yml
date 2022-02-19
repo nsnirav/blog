@@ -1,0 +1,9 @@
+# Site settings
+title: Nirav Notes
+author:
+  name: Nirav Shah
+  email: nsnirav12@gmail.com
+description: "Maintaining notes about things I learn."
+
+# Build settings
+remote_theme: jekyll/minima
